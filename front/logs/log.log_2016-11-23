@@ -1,0 +1,12 @@
+[2016-11-23 12:48:44.091] [INFO] dateFileLog - GET /
+[2016-11-23 12:48:44.286] [INFO] dateFileLog - GET /stylesheets/style.css
+[2016-11-23 12:48:44.446] [INFO] dateFileLog - GET /favicon.ico
+[2016-11-23 12:49:04.008] [INFO] dateFileLog - GET /
+[2016-11-23 12:49:04.209] [INFO] dateFileLog - GET /stylesheets/style.css
+[2016-11-23 12:52:39.767] [INFO] dateFileLog - GET /data
+[2016-11-23 12:53:01.442] [INFO] dateFileLog - [sayHello][The request is being processed in router sayHello]
+[2016-11-23 12:53:01.448] [INFO] dateFileLog - GET /hello
+[2016-11-23 12:53:12.230] [INFO] dateFileLog - [sayHello][The request is being processed in router sayHello]
+[2016-11-23 12:53:12.241] [INFO] dateFileLog - GET /hello
+[2016-11-23 17:47:55.998] [INFO] dateFileLog - GET /
+[2016-11-23 17:47:56.248] [INFO] dateFileLog - GET /stylesheets/style.css
